@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T15:05:14Z" name="Surefire suite" finished-at="2023-05-22T15:05:27Z" duration-ms="12411">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T15:05:14Z" name="Surefire test" finished-at="2023-05-22T15:05:27Z" duration-ms="12411">
+      <class name="itexps.test.com.CostcoTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:itexps.test.com.CostcoTest@49e202ad]" started-at="2023-05-22T10:05:14Z" name="setUpClass" finished-at="2023-05-22T10:05:14Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:itexps.test.com.CostcoTest@49e202ad]" started-at="2023-05-22T10:05:14Z" name="setUpMethod" finished-at="2023-05-22T10:05:16Z" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGoldStarMemberTest1()[pri:0, instance:itexps.test.com.CostcoTest@49e202ad]" started-at="2023-05-22T10:05:16Z" name="testGoldStarMemberTest1" finished-at="2023-05-22T10:05:27Z" duration-ms="10325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoldStarMemberTest1 -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:itexps.test.com.CostcoTest@49e202ad]" started-at="2023-05-22T10:05:27Z" name="tearDownClass" finished-at="2023-05-22T10:05:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:itexps.test.com.CostcoTest@49e202ad]" started-at="2023-05-22T10:05:27Z" name="tearDownMethod" finished-at="2023-05-22T10:05:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- itexps.test.com.CostcoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
